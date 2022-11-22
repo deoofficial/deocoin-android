@@ -80,7 +80,7 @@
     "grunt-nw-builder": "^2.0.3",
     "grunt-sass": "^1.2.0",
     "grunt-string-replace": "^1.2.1",
-    "karma": "^0.13.22",
+    "karma": "^6.4.1",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^1.0.1",
     "karma-cli": "^1.0.0",
