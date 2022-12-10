@@ -45,7 +45,7 @@
   "dependencies": {
     "bitcore-wallet-client": "https://github.com/deoofficial/bitcore-wallet-client.git",
     "coveralls": "^2.11.9",
-    "express": "^4.11.2",
+    "express": "^4.18.2",
     "fs": "0.0.2",
     "shelljs": "^0.3.0"
   },
@@ -64,7 +64,7 @@
     "bhttp": "^1.2.1",
     "bower": "^1.7.9",
     "chai": "^3.5.0",
-    "cordova": "5.4.1",
+    "cordova": "11.0.0",
     "cordova-android": "5.1.1",
     "grunt": "^1.0.1",
     "grunt-angular-gettext": "^2.2.3",
@@ -77,7 +77,7 @@
     "grunt-exec": "^1.0.0",
     "grunt-karma": "^2.0.0",
     "grunt-karma-coveralls": "^2.5.4",
-    "grunt-nw-builder": "^2.0.3",
+    "grunt-nw-builder": "^3.8.2",
     "grunt-sass": "^1.2.0",
     "grunt-string-replace": "^1.2.1",
     "karma": "^0.13.22",
