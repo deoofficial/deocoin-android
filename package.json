@@ -45,7 +45,7 @@
   "dependencies": {
     "bitcore-wallet-client": "https://github.com/deoofficial/bitcore-wallet-client.git",
     "coveralls": "^2.11.9",
-    "express": "^4.11.2",
+    "express": "^4.17.3",
     "fs": "0.0.2",
     "shelljs": "^0.3.0"
   },
